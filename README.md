@@ -7,9 +7,9 @@
 ### **Description** :
   A basic Calculator use to do Addition,Subtraction,Multiplication,Division,Squareroot & percentage.
 
-  Blog         : <Link Will update Soon>
+  Blog         : Link Will update Soon
  
-  Demo (Video) : <link update soon>
+  Demo (Video) : link update soon
 ### **To Run this Code** :
 
             * pip install tkinter
